@@ -1,0 +1,43 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\BlueJ\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files\BlueJ\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\BlueJ\lib\junit-4.8.2.jar;C:\Program Files\BlueJ\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files\BlueJ\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files\BlueJ\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files\BlueJ\BlueJ\lib\userlib\pi4j-service.jar;H:\Project
+-d
+H:\Project\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files\BlueJ\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+H:\Project\GraphicIllustration.java
+<---- end of javadoc command ---->
+Loading source file H:\Project\GraphicIllustration.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_40
+Building tree for all the packages and classes...
+Generating H:\Project\doc\GraphicIllustration.html...
+H:\Project\GraphicIllustration.java:38: warning - @g2 is an unknown tag.
+Generating H:\Project\doc\package-frame.html...
+Generating H:\Project\doc\package-summary.html...
+Generating H:\Project\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating H:\Project\doc\allclasses-frame.html...
+Generating H:\Project\doc\allclasses-noframe.html...
+Generating H:\Project\doc\index.html...
+Generating H:\Project\doc\stylesheet.css...
+1 warning
